@@ -10,7 +10,11 @@ namespace HackerRank
 
             //Pangrams.Solution.Run();
 
-            PermutingTwoArrays.Solution.Run();
+            //PermutingTwoArrays.Solution.Run();
+
+            //SubarrayDivisionOne.Solution.Run(); 
+
+            XORStringsTwo.Solution.Run();
 
         }
 
