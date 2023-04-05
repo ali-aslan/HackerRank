@@ -14,7 +14,11 @@ namespace HackerRank
 
             //SubarrayDivisionOne.Solution.Run(); 
 
-            XORStringsTwo.Solution.Run();
+            //XORStringsTwo.Solution.Run();
+
+            //FizzBuzz.Solution.Run();
+
+            FlippingMatrix.Solution.Run();
 
         }
 
