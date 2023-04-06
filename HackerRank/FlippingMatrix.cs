@@ -51,7 +51,7 @@ namespace HackerRank
 
                 List<List<int>> matrix = new List<List<int>>();
 
-                int q;
+                int q=1;
 
 
                 int result = Result.flippingMatrix(matrix, q);
@@ -65,3 +65,4 @@ namespace HackerRank
 
         }
     }
+}

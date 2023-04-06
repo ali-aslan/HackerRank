@@ -18,7 +18,9 @@ namespace HackerRank
 
             //FizzBuzz.Solution.Run();
 
-            FlippingMatrix.Solution.Run();
+            //FlippingMatrix.Solution.Run();
+
+            SalesbyMatch.Solution.Run();
 
         }
 
