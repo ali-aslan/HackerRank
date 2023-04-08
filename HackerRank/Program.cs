@@ -20,7 +20,9 @@ namespace HackerRank
 
             //FlippingMatrix.Solution.Run();
 
-            SalesbyMatch.Solution.Run();
+            //SalesbyMatch.Solution.Run();
+
+            DrawingBook.Solution.Run();
 
         }
 
