@@ -22,7 +22,11 @@ namespace HackerRank
 
             //SalesbyMatch.Solution.Run();
 
-            DrawingBook.Solution.Run();
+            //DrawingBook.Solution.Run();
+
+            //CaesarCipher.Solution.Run();
+
+            MaxMin.Solution.Run();
 
         }
 
