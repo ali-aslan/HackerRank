@@ -26,10 +26,15 @@ namespace HackerRank
 
             //CaesarCipher.Solution.Run();
 
-            MaxMin.Solution.Run();
+            //MaxMin.Solution.Run();
+
+            //DynamicArray.Solution.Run();
+
+            GridChallenge.Solution.Run();
+
 
         }
 
-        
+
     }
 }
