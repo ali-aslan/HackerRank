@@ -66,8 +66,6 @@ namespace HackerRank
         {
             public static void Run()
             {
-              
-
                     //List<string> grid = new List<string>() { "ebacd", "fghij", "olmkn", "trpqs","xywuv" }; //yes
                     List<string> grid_2 = new List<string>() { "abc", "lmp", "qrt", "trpqs","xywuv" };
                     List<string> grid_3 = new List<string>() { "mpxz", "abcd", "olmkn", "trpqs","xywuv" };

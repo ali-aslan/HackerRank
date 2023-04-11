@@ -30,7 +30,12 @@ namespace HackerRank
 
             //DynamicArray.Solution.Run();
 
-            GridChallenge.Solution.Run();
+            //GridChallenge.Solution.Run();
+
+            //PrimeDates.Solution.Run();
+
+            SherlockandArray.Solution.Run();
+
 
 
         }
