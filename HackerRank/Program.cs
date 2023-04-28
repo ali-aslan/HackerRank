@@ -34,9 +34,13 @@ namespace HackerRank
 
             //PrimeDates.Solution.Run();
 
-            SherlockandArray.Solution.Run();
+            //SherlockandArray.Solution.Run();
 
+            //RecursiveDigitSum.Solution.Run();
 
+            //CounterGame.Solution.Run();
+
+            SumvsXOR.Solution.Run();
 
         }
 
