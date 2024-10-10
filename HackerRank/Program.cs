@@ -40,7 +40,23 @@ namespace HackerRank
 
             //CounterGame.Solution.Run();
 
-            SumvsXOR.Solution.Run();
+            //SumvsXOR.Solution.Run();
+
+            //PalindromeIndex.Solution.Run();
+
+            //BetweenTwoSets.Solution.Run();
+
+            //Anagram.Solution.Run();
+
+            //TheBombermanGame.Solution.Run();
+
+            //NewYearChaos.Solution.Run();
+
+            //SherlockandtheValidString.Solution.Run();
+
+            //ClimbingtheLeaderboard.Solution.Run();
+
+            ReverseLinkedList.Solution.Run();
 
         }
 
